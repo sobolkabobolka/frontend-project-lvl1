@@ -1,6 +1,6 @@
 ### Hexlet tests and linter status:
 
-[![linter Actions Status](https://github.com/sobolkabobolka/frontend-project-lvl1.git/workflows/linter/badge.svg)](https://github.com/sobolkabobolka/frontend-project-lvl1.git/actions)
+[![linter Actions Status](https://github.com/sobolkabobolka/frontend-project-lvl1/workflows/linter/badge.svg)](https://github.com/sobolkabobolka/frontend-project-lvl1/actions)
 
 
 ![Actions Status](/workflows/hexlet-check/badge.svg)
